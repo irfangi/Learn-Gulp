@@ -1,0 +1,3 @@
+function keKlik(){
+    alert('Hello');
+}

@@ -1,0 +1,1 @@
+function keKlik(){alert("Hello")}
